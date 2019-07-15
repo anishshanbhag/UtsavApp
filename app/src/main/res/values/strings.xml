@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Utsav</string>
+    <string name="registration">Registration</string>
+    <string name="name">NAME</string>
+    <string name="usn">USN</string>
+    <string name="semseter">SEMSETER</string>
+    <string name="branch">BRANCH</string>
+    <string name="college">COLLEGE</string>
+    <string name="price">PRICE</string>
+    <string name="e_mail">E-MAIL</string>
+    <string name="contact_no">CONTACT NO.</string>
+    <string name="registration_details">Registration Details :</string>
+    <string name="name_2">Name :</string>
+    <string name="usn2">USN :</string>
+    <string name="namevalue">NameValue</string>
+    <string name="usnvalue">USNValue</string>
+    <string name="sem2">Sem :</string>
+    <string name="semvalue">SemValue</string>
+    <string name="branch2">Branch :</string>
+    <string name="branchvalue">BranchValue</string>
+    <string name="college2">College :</string>
+    <string name="collegevalue">CollegeValue</string>
+    <string name="event2">Event :</string>
+    <string name="eventvalue">EventValue</string>
+    <string name="price2">Price :</string>
+    <string name="pricevalue">PriceValue</string>
+    <string name="e_mail2">E-Mail :</string>
+    <string name="emailvalue">EMailValue</string>
+    <string name="contact2">Contact :</string>
+    <string name="contactvalue">ContactValue</string>
+    <string name="submit">Sure</string>
+    <string name="title_activity_login">UTSAV2K19</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">LOGIN</string>
+</resources>

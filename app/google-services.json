@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "794623184239",
+    "firebase_url": "https://utsav-d61a0.firebaseio.com",
+    "project_id": "utsav-d61a0",
+    "storage_bucket": "utsav-d61a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794623184239:android:2e21cff551ffa277",
+        "android_client_info": {
+          "package_name": "com.example.utsav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794623184239-gmdcdkofbqsm0nfs45472oa9tsm2l01n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.utsav",
+            "certificate_hash": "c78de397ad58ea3e32c193330fb9b7aebc2028a2"
+          }
+        },
+        {
+          "client_id": "794623184239-jvcnf0pnfuvjck16ctggbjsqo4qnqfs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUeJyLlTIsBF354PMYymw3DoEq1TRx5jY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794623184239-jvcnf0pnfuvjck16ctggbjsqo4qnqfs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
